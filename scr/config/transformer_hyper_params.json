@@ -1,0 +1,8 @@
+{
+  "num_layers": 4,
+  "dff": 64,
+  "num_heads": 4,
+  "dropout_rate": 0.0,
+  "d_model": 200,
+  "tem_rate": 0.05
+}
